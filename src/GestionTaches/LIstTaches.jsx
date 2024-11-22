@@ -24,7 +24,7 @@ const ChangeEtate=(Event,k)=>{
 
     return<>
 
-<div className="form-group">
+<div className="form-group" >
   <label htmlFor="">ETAT</label>
   <select onChange={selectAll} className="form-control" name="" defaultValue={"all tache"}  id="etat"  >
   <option value="all tache" selected >all tache</option>

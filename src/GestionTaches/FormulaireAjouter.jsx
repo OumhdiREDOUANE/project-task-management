@@ -21,7 +21,7 @@ tache={nom:nomV,description:messageV,etat:etatV}
  
         <div className="form-outline mb-4">
           <label className="form-label" htmlFor="name" >NAME DE TACHE</label>
-          <input  type="text" name="" id="name" className="form-control "    />
+          <input  type="text" name="" id="name" className="form-control " />
         
         </div>
         
